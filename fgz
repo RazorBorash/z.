@@ -1,1 +1,1 @@
-local SCRIPTFREEON = true
+SCRIPTFREEON = true  -- or false depending on the condition
