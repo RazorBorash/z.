@@ -1,10 +1,1 @@
-local scriptCode = [[
-    SCRIPTFREEON = true
-]]
-
-local func, err = loadstring(scriptCode)
-
-if not func then
-    warn("Error loading script: " .. err)
-    return
-end
+local SCRIPTFREEON = true
