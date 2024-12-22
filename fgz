@@ -1,1 +1,1 @@
-SCRIPTFREEON = true  -- or false depending on the condition
+SCRIPTFREEON = false
